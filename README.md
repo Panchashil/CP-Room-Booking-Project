@@ -12,12 +12,16 @@
 <img src="images/landingrooms.png" alt="landing"/>
 <img src="images/landingteam.png" alt="landing"/>
 <img src="images/landingcontact.png" alt="landing"/>
-<img src="images/userdashboard.png" alt="landing"/>
-<img src="images/selectrooms.png" alt="landing"/>)
-<img src="images/selectedrooms.png" alt="landing"/>
-<img src="images/adminusers.png" alt="landing"/>
-<img src="images/addroom.png" alt="landing"/>
-<img src="images/editandupdate.png" alt="landing"/>
+<img src="images/Screenshot (1).png" alt="landing"/>
+<img src="images/Screenshot (2).png" alt="landing"/>
+<img src="images/Screenshot (3).png" alt="landing"/>
+<img src="images/Screenshot (4).png" alt="landing"/>
+<img src="images/Screenshot (5).png" alt="landing"/>
+<img src="images/Screenshot (6).png" alt="landing"/>
+<img src="images/Screenshot (7).png" alt="landing"/>
+<img src="images/Screenshot (8).png" alt="landing"/>
+<img src="images/Screenshot (9).png" alt="landing"/>
+<img src="images/Screenshot (10).png" alt="landing"/>
+<img src="images/Screenshot (11).png" alt="landing"/>
 <img src="images/login.png" alt="landing"/>
 <img src="images/signup.png" alt="landing"/>
-![landing](/images/signup.png)
