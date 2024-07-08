@@ -11,7 +11,7 @@
 <img src="images/landingservices.png" alt="landing"/>
 <img src="images/landingrooms.png" alt="landing"/>
 <img src="images/landingteam.png" alt="landing"/>
-<img src="images/landingcontact.png" alt="landing"/>
+<img src="images/Screenshot (12).png" alt="landing"/>
 <img src="images/Screenshot (1).png" alt="landing"/>
 <img src="images/Screenshot (2).png" alt="landing"/>
 <img src="images/Screenshot (3).png" alt="landing"/>
